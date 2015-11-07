@@ -218,7 +218,11 @@ new Vue({
 # たとえば、フィボナッチ数列
 
 
-[fibo](http://me.pocke.me/fibo)
+- [fibo](http://me.pocke.me/fibo)
+
+# たとえば、Vim戦闘力
+
+- [Vim Scouter](http://me.pocke.me/vim_scouter_web/)
 
 
 ---
