@@ -51,8 +51,8 @@ A web engineer.
 # Vue ってなに?
 
 - Reactive Components for Modern Web Interfaces
-- ...?
 - いわゆる最近のフロントエンドJSフレームワーク!(だと思う)
+  - ReactとかAngularとか…
 
 
 ---
