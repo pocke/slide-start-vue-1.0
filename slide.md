@@ -5,6 +5,8 @@ class: center, middle
 
 [at port_mokumoku #10](http://freestyle-mokumoku.connpass.com/event/21612/)
 
+2015年11月7日
+
 ---
 
 
