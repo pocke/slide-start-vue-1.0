@@ -176,6 +176,42 @@ new Vue({
 
 ---
 
+
+<div id="vue-4">
+  <div v-html="marked"></div>
+
+  <textarea v-model="md" rows="5">
+  </textarea>
+</div>
+
+
+.col-xs-6[
+```html
+<div id="vue-4">
+  <div v-html="marked"></div>
+
+  <textarea v-model="md" rows="5">
+  </textarea>
+</div>
+```
+]
+
+.col-xs-6[
+```javascript
+new Vue({
+  el: '#vue-4',
+  data: {md: "# たとえば、マークダウンエディタ\n- このスライドもMarkdownで書かれています\n- Markdown最高!"},
+  computed: {
+    marked: function () {
+      return marked(this.md);
+    },
+  }
+})
+```
+]
+
+---
+
 # たとえば、フィボナッチ数列
 
 
