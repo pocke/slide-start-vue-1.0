@@ -50,8 +50,15 @@ A web engineer.
 
 ---
 
+# アジェンダ
 
-# Vue ってなに?
+- Vue.js について知ってもらう!
+- つかいたい!と思ってもらう!
+
+---
+
+
+# Vue.js ってなに?
 
 - Reactive Components for Modern Web Interfaces
 - いわゆる最近のフロントエンドJSフレームワーク!(だと思う)
