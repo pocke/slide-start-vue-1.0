@@ -2,6 +2,9 @@ class: center, middle
 
 # Start Vue.js <br/>v1.0
 
+
+[at port_mokumoku #10](http://freestyle-mokumoku.connpass.com/event/21612/)
+
 ---
 
 
